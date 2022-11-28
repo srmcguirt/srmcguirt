@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @srmcguirt
-- 👀 I’m interested in UX Design and Data Science
-- 🌱 I’m currently learning UX wireframing through Google
+- 👋 Hi, I’m @srmcguirt a tech entrepreneur and developer
+- 👀 I’m interested in Javascript, Typescript, UX Design, & Data Science
+- 🌱 I’m currently learning UX Design through Google
 - 📫 How to reach me: srmcguirt@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7GO3GY)
