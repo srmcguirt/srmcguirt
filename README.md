@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @srmcguirt a tech entrepreneur and developer
-- 👀 I’m interested in Javascript, Typescript, UX Design, & Data Science
+- 👋 Hi, I’m @srmcguirt a software developer
+- 👀 I’m interested in Javascript and Typescript
 - 🌱 I’m currently preparing for Hack Reactor!
 - 📫 How to reach me: srmcguirt@gmail.com
 
