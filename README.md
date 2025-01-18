@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srmcguirt a software developer
 - 👀 I’m interested in Javascript and Typescript
-- 🌱 I’m currently preparing for Hack Reactor!
+- 🌱 I’m currently a software engineering student as Arizona State University
 - 📫 How to reach me: srmcguirt@gmail.com
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7GO3GY)
